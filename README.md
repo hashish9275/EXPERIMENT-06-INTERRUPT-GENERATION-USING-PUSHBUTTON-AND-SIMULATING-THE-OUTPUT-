@@ -198,13 +198,24 @@ void Error_Handler(void)
   }
 }
 ```
+```
+Developed By:K.R.Hashish Vidya Sagar
+Register No:212222230047
+```
 
 
 ## Output screen shots of proteus  :
- 
+LED OFF:
+![XP 6 OUT OF](https://github.com/hashish9275/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118707521/7e90debd-47a6-4aa8-9393-eba88fea204a)
+
+
+LED ON:
+ ![XP 6 OUT ON](https://github.com/hashish9275/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118707521/8689969d-27c9-4505-8c90-25e5fb5a9583)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![XP 6 OUT LAY](https://github.com/hashish9275/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118707521/fb30bcd9-dabb-47bc-885f-8d2285834e9a)
+
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
